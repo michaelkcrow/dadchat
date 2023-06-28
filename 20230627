@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Clean Blog - Sample Post</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="post.html">Sample Post</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/post-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>When Does It Get Easier?</h1>
+                        <h2 class="subheading">I have no idea, but it does</h2>
+                        <span class="meta">Posted by <a href="#">Mike</a> on June 27, 2023</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <p>I got off work feeling like a champion today.  It's been 6 months of working on a project I was thrown into right as things were kicking into high gear and today we submitted
+                    our final round of data for go-live. I've worked extra hours at the pinch points to get everything done as the IT lead on this project.  I'm proud of the work we've done
+                    and glad to reach this point; I'm tired.  So when I got off tonight, obviously, I stripped to my boxers, grabbed a beer, and turned on the TV.</p>
+                    <p>Or maybe that's what I would have done if I didn't have kids.  Instead, the dog needed walking, a fence post needs to be replaced in the back yard, the kids needed snacks,
+                    and to get ready for bed.</p>
+                    
+                    <p> Having spent 6ish years in the online dad community, I've seen "When does it get easier?" "When do they stop asking why over and over?" "How do you make it through the day?" 
+                    "How do you get anything done?" or some form of these pop up repeatedly. My answer?</p>
+                    <p> It doesn't. They don't. I'm not sure. No idea.</p>
+                    <p> That might seem terrifying, but it doesn't need to! If you're a first time dad, you're probably as I was: massively overwhelmed with the lifestyle changes that come with
+                    going from being DINKs and having all of the time for yourself, your hobbies, and your spousal relationship to feeling like you have none, for any of it, including sleep.  
+                    While infancy is particularly demanding, you were also on a steep learning curve and eventually, things got easier.  Or seemed to anyway. For me, it has just been new, 
+                    and mostly exciting, challenges. </p>
+                    <p> There were certainly the big milestones that seemed to make things easier: feeding themselves, walking, talking, getting out of diapers, not needing bathroom help,
+                    getting into the swing of daily routines--at 5 and 7, we're working on these.</p>
+                    <p> To that last hurdle: the kids had a very good day today, finished their homework--yes I have them both doing math and language workbooks over summer--and got to do screen 
+                    time on their tablets this evening.  With that, I talked to them about what needed to be done: dog walk and fence post and told them I'd be back with dog shortly. 
+                    When I got back, I told them when their respective episodes finished they needed to do their nightly bedtime routine and that I'd be out working on digging out 
+                    the old concrete post setting.  About half an hour later, it was their bed time so I came in and they had done everything they needed to, were finishing up screen time, 
+                    and were ready for bed.</p>
+                    <p> And that's when I realized, it's gotten easier.  There was no screaming, crying, arguing about bed time, beating on each other for some slight or offense,
+                    real or perceived. They just...did what I asked when I asked like they needed to. That work win today was great but nothing compared to realizing my kids
+                    ARE listening, growing, learning. And getting easier.</p>
+                    <p> Maybe that's something to crack that beer over.</p>
+              
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Dadchat.info 2023</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
